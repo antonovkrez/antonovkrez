@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ivan. I am self-educataed junior fullstack web-developer
+### Hi there 👋 my name is Ivan. I am self-educataed fullstack web-developer
 
 - 🔭 I’m currently working in Labirint company (Moscow)
 - 🌱 I’m currently learning JS/React and PHP/Symfony
