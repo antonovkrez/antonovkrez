@@ -2,5 +2,5 @@
 
 - :round_pushpin: Astana
 - 📫 : [antonovdev88@gmail.com](mailto:antonovdev88@gmail.com) 
-- :iphone: [Telegram](https://t.me/antonovkrez "Telegram")
+- :iphone: [Telegram](https://t.me/pideBarar "Telegram")
 
